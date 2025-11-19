@@ -1,0 +1,32 @@
+{
+  "team": [
+    {
+      "name": "Student Name 1",
+      "major": "Digital Studies",
+      "role": "Data Collection & Geoparsing",
+      "github": "https://github.com/username1",
+      "headshot": "images/headshot_dukedog.jpg"
+    },
+    {
+      "name": "Student Name 2",
+      "major": "Computer Science",
+      "role": "Sentiment Analysis & Visualization",
+      "github": "https://github.com/username2",
+      "headshot": ""
+    },
+    {
+      "name": "Student Name 3",
+      "major": "Media Arts & Design",
+      "role": "Web Development & Design",
+      "github": "https://github.com/username3",
+      "headshot": ""
+    },
+    {
+      "name": "Student Name 4",
+      "major": "Writing, Rhetoric & Technical Communication",
+      "role": "Research & Documentation",
+      "github": "",
+      "headshot": ""
+    }
+  ]
+}
